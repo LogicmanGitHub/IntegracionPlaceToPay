@@ -6,7 +6,7 @@ Este ensayo muetra un ejemplo de integración de la pasarela de pago PlaceToPay 
 Este codigo muestra como hacer un pago basico, solicitando los datos reuqridos desde un formulario, y el almacenamiento del status devuelta por el servicio, para luego ser listado.
 
 
-<a href="https://http://www.lotonext.net/placetopay">Desde este link puedes ir al DEMO</a>
+<a href="https://www.lotonext.net/placetopay">Desde este link puedes ir al DEMO</a>
 
 
 ## Notas
