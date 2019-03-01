@@ -14,5 +14,5 @@ Este codigo muestra como hacer un pago basico, solicitando los datos reuqridos d
 
 - No realice completamente las prueba unitarias, por que es una metodologia en la que me estoy formando mil disculpas por ello, de igual manera entrego lo realizado y sigo en mi preparacion.
 
-- Los graficos y conceptos solicitados en los punto 2 y 3 estan en la carpeta DocsPrueba
+- Los graficos y conceptos solicitados en los punto 2 y 3 estan en la carpeta docs_prueba
 
