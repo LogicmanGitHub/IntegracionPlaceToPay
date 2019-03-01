@@ -37,6 +37,15 @@ class PagoController extends Controller
      */
     public function store(Request $request)
     {
+        $request->validate([
+            'referencia' => 'required',
+            'descripcion' => 'required',
+            'moneda' => 'required',
+            'monto' => 'required'
+        ]);
+
+
+
         $fecha_actual=date('Y-m-d');
 
         //login

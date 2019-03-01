@@ -15,6 +15,10 @@
 				<div class="panel-body">
 					
 						<form action="{!! asset('pagos/store') !!}" method="POST" class="form-horizontal" role="form">
+								@foreach ($errors->all() as $error)
+									<p class="alert alert-danger">{{ $error }}</p>
+								@endforeach
+							
 								<input type="hidden" name="_token" value="{!! csrf_token() !!}">
 
 								<div class="form-group">
