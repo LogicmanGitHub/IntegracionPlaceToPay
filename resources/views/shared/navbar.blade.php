@@ -12,8 +12,8 @@
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-              <li><a href="\">Inicio</a></li>
-              <li><a href="\pagos">Pagos</a></li>
+              <li><a href="{{ asset('\/') }}">Inicio</a></li>
+              <li><a href="{{ asset('pagos') }}">Pagos</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
